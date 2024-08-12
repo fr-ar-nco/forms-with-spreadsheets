@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "finances-412021",
+  "private_key_id": "6a2f6bed0c7900bda20eeedb259c16ea73095114",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvf4Y9zSV+vVcR\nvg0/9j98DdO0UQ9fpSwjUN/oUjx1s0fzjncE1V3oRawZKzeWI9meJAgmBD2KuDMz\n1dL0+0wWleypNOKQZ/bYKscrH5UM8iaggnkJZm/YSP9ME83YMYWDhu/O0lQMUkrW\nrpF26H0ToVagLi6N6QEUD/qr6mT3nsnhAHapPy8pNfdKqi1HytHk1vezIJasQmy3\n1M4OuUco0TE+0rCd3+5SHmttH+nODk95kxrnun1Km2WDvY4To6qq1dH5YCYB74bV\nGXkjSctaw+dM2idmTSHsYATv6dqFH3DS7nkq/dHgdrpWcsoib8o/ocjQTppG2K0v\nYtyeHGYzAgMBAAECggEACT6s11Ps4Lif/eWcFGgoFKSJ0sWJC3R2VxnrNvV2DTaM\n2MNYI7S1sLGoN4neRhYiCuxCUvZa45Qr0P7iO64tO5dZky71Ab8S8so2GbXH3URi\n99uc/VDHHYai5DgQL45URocfhNlG54CXmVLdg30LHF3zDpcViWY30f28Kmg7j2ED\nKv0I0wlsXz9aOe5aA14I8PfEcXhyH2lVYiN4w/fW4Fzy733nXqA0kE0CbBhn+Ew+\nCp/mJYiIgWTokQJw/5UCEo3r5iSU2Tn8HIJryj7chaIu3Z+kakP2EWvjTGDRLPKV\nwP3DFbfjHCu3rdNPuBaEcnpSSc/bzlDhF9LmKC4qsQKBgQDu4wfJrhHA+EcW1drm\nmsWdggQMtvAK8gKKrQEIpy/dGzDYjU8dFKwPMNtinOxsr1Oxn9VQv0A94d0FSMFu\nQ6zis7psrTkzqDLbMR2MJY8hSIGu06Usi85bLH1fsBFHa4k+Evc2s9wVHr/I6ZU7\nfTGdd04Vqfg/ju26yRpkD45BiQKBgQC8EgCZZkj8JNeIcM/fmYO8W3R3XQRB4cnf\nKi4L/W3ETow0RsVJMhR3WkrQ9+9cvLuUhGVd/JQAIzUF8XMQj1O4WfpQjf0mXt2r\nCRBxoCya26eZjcJP6d3Kbcbb56t5MEuSwnk4ErTR1iTl5C2NZ5q6MTIzOfPCcfcz\ngMGWqDAm2wKBgBhWjxOQJYTohq2f6iZ2fE240lrNRJWI5JNmXuWXyvuW6poVg4rt\n8T2295MLc9b64ecF5sDMS2pCmbcRG4v1XybVstehqmNF7rCAR4dgyD1W2seKDpkE\nQWjulnNqR8hj/16Qphkvp+uK73Uzvx2JesWVQyJX58/p6vSNyp+JKjApAoGBALCm\n4DU2ZFuiZ2jbPgYy9hBYfv8XOcaARNP/lJzigNYhSYRY7TqhdaPeBeRe3lBnXnJU\nIbq0Ynf2mflpH8FwPx0sNvivRhdiiCf9LZrs7rjOlZCgHOJfM1rO3jj0VJZSjMnf\nLWlD+OAYmzPsrfTiWe2GBDcluhbsYVvZFv1iIUh9AoGAJJPDYWwH+2R+l7R7U1lj\n3/OEBItpjLRikx1Vw9DA0gBjA6Ou2Ix7lJmXLUQ4tGfRcgjkqwYDvTV0W3eA1mte\ncsEk1F7lOHPIeQ18AgwHJu2GUwySIy77WPj7q4sF+ycJD4ihMRmBawxp4MtbN2R4\nHQzizi0hm5E31o5Rdu5ItSw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-form@finances-412021.iam.gserviceaccount.com",
+  "client_id": "109675391842363723057",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-form%40finances-412021.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
